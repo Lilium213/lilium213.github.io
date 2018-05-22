@@ -1,5 +1,24 @@
 ## HMIS additions
-My name is Alexander Bulychev. I'm trying to find time to learn to use GameMaker Studio.
+My name is Alexander Bulychev. I'm trying to find time to learn Python.
+
+# Sesión 01
+[Página principal](https://lilium213.github.io)
+
+# Sesión 02
+**Nombre de la Linux virtual machine en Azure:** ab946-hmis18-vm2
+[DNS de la máquina](https://ab946-hmis18-vm2.eastus.cloudapp.azure.com)
+
+# Sesión 03
+[DNS de la máquina con GitLab](https://mll129-hmis18-vm1.eastus.cloudapp.azure.com)
+[DNS de la máquina con Jenkins](https://ab946-hmis18-vm2.eastus.cloudapp.azure.com)
+
+**Nombre del repositorio con los ejercicios:** sesion03
+
+# Sesión 04
+[Página de equipo](https://lostresdelpuzzle-hmis18-vm3.eastus.cloudapp.azure.com)
+[Repositorio GitHub de la página](https://github.com/marcoslupion/StaticPageLosTresDelPuzzle)
+
+[Repositorio forkeado](https://github.com/Lilium213/StaticPageLosTresDelPuzzle-1)
 
 ## Welcome to GitHub Pages
 
